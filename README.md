@@ -14,7 +14,7 @@ Designed with a **minimal, modern UI** for smooth navigation and interactivity.
 ---
 
 ## 🛠️ Tech Stack  
-- **Frontend:** React + TailwindCSS  
+- **Frontend:** React + TailwindCSS  + TyteScript + Vite
 - **Version Control:** Git & GitHub  
 
 ---
